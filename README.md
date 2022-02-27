@@ -1,4 +1,4 @@
-<img srsc="https://github.com/otufan/otufan/blob/main/Banner.jpg?raw=true">
+<img src="https://github.com/otufan/otufan/blob/main/Banner.jpg?raw=true">
 
 <h1 align="center">Hi,✌️ I'm Omer Tufan</h1>
 
