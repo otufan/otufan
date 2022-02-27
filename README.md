@@ -5,11 +5,3 @@
 <h3 align="center">Electrical Engineer and Software Developer</h3>
 
 <p align="justify"></p>
-
-  
-  <ul>
-    <li><b></b></li>
-    <li>              </li>
-  </ul> 
-    
-    
